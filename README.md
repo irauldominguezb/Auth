@@ -8,5 +8,5 @@ En este proyecto se implementa el estandar Oauth el cuál permite que un sitio w
 
 # Ejecucion
 
-Instalar dependecias => npm i
-Ejecutar el pryecto => npm run serve
+- Instalar dependecias => npm i
+- Ejecutar el pryecto => npm run serve
